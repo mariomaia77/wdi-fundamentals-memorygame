@@ -65,3 +65,9 @@ footer {
 	background-color: #808080;
 	text-align: center;
 }
+
+/* added to keep the card images from imgur a decent size */
+img {
+	height: 200px;
+    width: 150px;
+}
